@@ -99,7 +99,7 @@ Throughout this year, I have learned fundamental and advanced concepts of softwa
 ## 🔗 Learn more about me
 
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1jKmGBSh9RN3S3eGcZKNqFgKfN-1mR_lr/view?usp=sharing)
-[![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:8
+[![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:8)
 [![Twitter](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=twitter)](https://twitter.com/julesdone/)
 
 ## 🛠 Languages and Tools:
