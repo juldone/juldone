@@ -18,7 +18,7 @@ Im Laufe dieses Jahres habe ich grundlegende und fortgeschrittene Konzepte der S
 ## 🔗 Mehr über mich erfahren
 
 ![Resume](https://img.shields.io/badge/-Lebenslauf-black?style=for-the-badge&logo=google-drive&logoColor=white)
-[![Mail](https://img.shields.io/badge/-Sag%20Hallo!-black?style=for-the-badge&logo=gmail)](mailto:8julian@determeyer.info)
+[![Mail](https://img.shields.io/badge/-Sag%20Hallo!-black?style=for-the-badge&logo=gmail)](mailto:8)
 [![Twitter](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=twitter)](https://twitter.com/julesdone/)
 
 ## 🛠 Sprachen und Tools:
@@ -99,7 +99,7 @@ Throughout this year, I have learned fundamental and advanced concepts of softwa
 ## 🔗 Learn more about me
 
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1jKmGBSh9RN3S3eGcZKNqFgKfN-1mR_lr/view?usp=sharing)
-[![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:8julian@determeyer.info)
+[![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:8
 [![Twitter](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=twitter)](https://twitter.com/julesdone/)
 
 ## 🛠 Languages and Tools:
